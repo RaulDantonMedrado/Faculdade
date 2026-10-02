@@ -1,2 +1,2 @@
 # Faculdade
-Trabalhos do primeiro semestre da faculdade.
+Trabalhos feitos durante minha graduação em Ciências da Computação.
