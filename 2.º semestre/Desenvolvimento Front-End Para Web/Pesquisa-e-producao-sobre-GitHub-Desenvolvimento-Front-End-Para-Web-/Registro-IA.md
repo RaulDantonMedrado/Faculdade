@@ -1,5 +1,5 @@
 **1. Ferramenta utilizada**\
-Ferramenta: ChatGPT – Inteligência Artificial da OpenAI.\
+Ferramenta: ChatGPT – Inteligência Artificial da OpenAI.
 
 Finalidade: Apoiar a pesquisa sobre GitHub, esclarecer conceitos, organizar as informações da cartilha e revisar a clareza das explicações.
 
